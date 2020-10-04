@@ -1,0 +1,10 @@
+1. Restaurant Name: Pizza Den
+ Restaurant locality address: 7, Ground Floor, Paradise Complex, Near Sunshine Hospital, Paradise Circle, Secunderabad
+ Average budget for two people: 400.0
+ Zomato user rating: 4.7
+
+2. Restaurant Name: Stikstof Ice-Cream Cafe
+ Restaurant locality address: House 1-98/15/37, Arunodaya Colony, Hi-Tech City Main Road, Near Durgam Cheruvu Metro Station, Madhapur, Hyderabad
+ Average budget for two people: 500.0
+ Zomato user rating: 4.5
+
